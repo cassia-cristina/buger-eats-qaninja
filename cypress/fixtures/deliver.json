@@ -1,0 +1,35 @@
+{
+    "signup": {
+        "name": "Cassia Pereira",
+        "cpf": "00000001212",
+        "email": "cassia@gmail.com",
+        "whatsapp": "62999999999",
+        "address": {
+            "postalcode": "04730-050",
+            "street": "Rua Centro Africana",
+            "number": "s/n",
+            "details": "qd 50 lt 33",
+            "district": "Várzea de Baixo",
+            "cityState": "São Paulo/SP"
+        },
+        "deliveryMethod": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+
+    "cpf_inv" : {
+        "name": "Naiara Gouvea",
+        "cpf": "00001212ABC",
+        "email": "naiara@gmail.com",
+        "whatsapp": "62999999999",
+        "address": {
+            "postalcode": "04730-050",
+            "street": "Rua Centro Africana",
+            "number": "s/n",
+            "details": "qd 50 lt 33",
+            "district": "Várzea de Baixo",
+            "cityState": "São Paulo/SP"
+        },
+        "deliveryMethod": "Bicicleta",
+        "cnh": "cnh-digital.jpg"
+    }
+}
