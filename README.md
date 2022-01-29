@@ -6,7 +6,8 @@ Instrutor: Papito Fernando
 
 ```
 home.spec: Verifica a página inicial da aplicação.
-signup.spec: Testes para cadastro com sucesso, documento inválido, e-mail incorreto e verificação de campos obrigatórios.
+signup.spec: Testes para cadastro com sucesso, documento inválido, e-mail incorreto
+e verificação de campos obrigatórios.
 ```
 
 **Dependências:**
