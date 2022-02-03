@@ -4,7 +4,7 @@
   "description": "Projeto de testes de aceitação do app BugerEats",
   "main": "index.js",
   "scripts": {
-    "test": "npx cypress open"
+    "test": "npx cypress run"
   },
   "author": "Cassia Souza",
   "license": "MIT",
